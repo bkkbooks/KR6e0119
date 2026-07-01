@@ -1,0 +1,90 @@
+canonical_identifier: bkk:krp/KR6e0119/v1
+canonical_location: https://kanripo.org/bkk/KR6e0119/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴經談玄抉擇
+  identifiers:
+    alt_id:
+    - X08n0235
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X08/X08n0235.xml
+    old_id: X08n0235
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0119_000.yaml, hash: 'sha256:3ae971a3ef196766c608546ea5fb0d5c7a80eedbb87302c7e46191fe2b13a6ea'}
+  - {seq: 2, filename: KR6e0119_002.yaml, hash: 'sha256:8821268c3f2f050763c481306a4b08037677c285620c17bfeefdbb0417320a0a'}
+  - {seq: 3, filename: KR6e0119_003.yaml, hash: 'sha256:a330524262127ca0ee0b50454d78e26cb7af1d18560979fbfd000d8b887d267a'}
+  - {seq: 4, filename: KR6e0119_004.yaml, hash: 'sha256:e9c5c6cbdeab64a025478cbb9231d96e523913732e4b07dfdfdf4d05d6dd37f0'}
+  - {seq: 5, filename: KR6e0119_005.yaml, hash: 'sha256:facfb460c208248fcee36c49ce02fcc4d2425ba63528dd224ff88fd4a9bf8156'}
+  - {seq: 6, filename: KR6e0119_006.yaml, hash: 'sha256:3d7f3ebdf96d5c424eca9e0b50ff979fe3c15a7f5794496d6924b08caf5851f9'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR6e0119_002.markers.yaml, hash: 'sha256:ee2e19c17c1c027de908b1cbf7cedeee344fb4c39a3f378e3fdc05b85cdb6f98'}
+  - {seq: 3, role: markers, filename: assets/KR6e0119_003.markers.yaml, hash: 'sha256:af6539322a3385a5e3ca227dd8a0722a512c4e027082bdd387eafed8e2cbbe50'}
+  - {seq: 4, role: markers, filename: assets/KR6e0119_004.markers.yaml, hash: 'sha256:33d701125719c50624391d5c0c060350d55fd983c4c0edd756629d36116f8a31'}
+  - {seq: 5, role: markers, filename: assets/KR6e0119_005.markers.yaml, hash: 'sha256:dacbbf5ea649a0cfa7b958cef0992691dff7988d77adc39880c144a120dda000'}
+  - {seq: 6, role: markers, filename: assets/KR6e0119_006.markers.yaml, hash: 'sha256:f728a28d10322327b54797ea3f2d764d75ee0ab4b054715c90dbe0f5d3df8baa'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6e0119_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 20384
+  label: 大方廣佛華嚴經談玄決擇卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0119_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 21228
+  label: 大方廣佛華嚴經談玄決擇卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0119_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 30456
+  label: 大方廣佛華嚴經疏談玄決擇卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0119_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 28089
+  label: 大方廣佛華嚴經談玄決擇卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0119_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 24053
+  label: 大方廣佛華嚴經談玄決擇卷第六
+  type: juan
+  level: 1
+hash: sha256:ae46d1b5dd6f57f81a0865decdbf2e7946c362f018f4794e7d94ac7e5795d84c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
