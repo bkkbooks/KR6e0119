@@ -27,11 +27,11 @@ assets:
   - {seq: 6, filename: KR6e0119_006-X.yaml, hash: 'sha256:9c5522f88663b4b677412f84447a599f26f198ac0183902addce8b936b9892e2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0119_000-X.markers.yaml, hash: 'sha256:aa9c85bbe21cce7c73646d8ef73a1896080deca7e5fb8212a3a2eb5dc4dfce9e'}
-  - {seq: 2, role: markers, filename: assets/KR6e0119_002-X.markers.yaml, hash: 'sha256:a4b2521af751a4edde7b8d41215645aef245f6c28dfb4e0abff5d7a2c95fd0a6'}
-  - {seq: 3, role: markers, filename: assets/KR6e0119_003-X.markers.yaml, hash: 'sha256:fc74e017ce92ac9bbd83b98a36695f9ef68bed5e541f4789c3134e5c78887960'}
-  - {seq: 4, role: markers, filename: assets/KR6e0119_004-X.markers.yaml, hash: 'sha256:4a3afcbebf882ae6c8c1c809d46dcb491410a2e2fde6228c180c83822682ee4b'}
-  - {seq: 5, role: markers, filename: assets/KR6e0119_005-X.markers.yaml, hash: 'sha256:d7726ddeffb1cd7769ec1cb59914baa6004215148117cab82804cf9b12def0ed'}
-  - {seq: 6, role: markers, filename: assets/KR6e0119_006-X.markers.yaml, hash: 'sha256:1e223da7cb65a9d3c858f5022881a0b62152bcfa3ad1932fadd0f4764ac09d6b'}
+  - {seq: 2, role: markers, filename: assets/KR6e0119_002-X.markers.yaml, hash: 'sha256:0ee2cb98eb81d05fd77480ab2775e3edd8f90a7e776a3a43e0e2471d6dd2e4d9'}
+  - {seq: 3, role: markers, filename: assets/KR6e0119_003-X.markers.yaml, hash: 'sha256:409f3e7e742f15fc95a664ff9c5928783d05f6c90da6eb7463196e2ab25267b9'}
+  - {seq: 4, role: markers, filename: assets/KR6e0119_004-X.markers.yaml, hash: 'sha256:0edbd2a5cefc0b77f8be8db35815ff038ab325a8e1de5d761895fa43cc6337bb'}
+  - {seq: 5, role: markers, filename: assets/KR6e0119_005-X.markers.yaml, hash: 'sha256:f0a7e0ae8826a201b05f2ad059ed5eb300edd788f2beae3b32288e76b223eb0e'}
+  - {seq: 6, role: markers, filename: assets/KR6e0119_006-X.markers.yaml, hash: 'sha256:6583b802fa7128ce6584ce4f5ae9fbe2f1bdee6f1c6f9e786b4c13c6b5a73429'}
 table_of_contents:
 - ref:
     seq: 2
@@ -83,4 +83,4 @@ table_of_contents:
   label: 大方廣佛華嚴經談玄決擇卷第六
   type: juan
   level: 1
-hash: sha256:5a9dfb5e1491a124f0d593454fd81e29f3ecbcc07dbc786b4281a0f7657d9367
+hash: sha256:04815d5df1b286037aa4e1db4a9231e7d11dcf924cfd232bf4b4de25e087abd7

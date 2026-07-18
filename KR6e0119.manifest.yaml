@@ -29,11 +29,11 @@ assets:
   - {seq: 6, filename: KR6e0119_006.yaml, hash: 'sha256:52c8504d83fd2ec23ac7248cd9559d582b5ce5ec472dd06bfe5c61019fe6fc84'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0119_000.markers.yaml, hash: 'sha256:73b0ae118d6f5df3a7e8c1a494d7d21e6dc77660f31b239d2dd04bba611ca68a'}
-  - {seq: 2, role: markers, filename: assets/KR6e0119_002.markers.yaml, hash: 'sha256:2d15df23b2d7a5c5a821709a3de37d73782508b39f2191b32f9b567019a8fdb1'}
-  - {seq: 3, role: markers, filename: assets/KR6e0119_003.markers.yaml, hash: 'sha256:ba795c0044bf95124fcfeb073f6f9625f25fa3919e16c1872e1e8f7895bf1b1f'}
-  - {seq: 4, role: markers, filename: assets/KR6e0119_004.markers.yaml, hash: 'sha256:9a0bd95bf868f60a83147fcc409ad300a84e2d46650e213491486421101a2136'}
-  - {seq: 5, role: markers, filename: assets/KR6e0119_005.markers.yaml, hash: 'sha256:84e3ea667f09fe5ed511c5b43e006e4a3219751e8b2f8b482ff2277cdcb996e4'}
-  - {seq: 6, role: markers, filename: assets/KR6e0119_006.markers.yaml, hash: 'sha256:ef313ff13e60424d4fc08382cd5a14aa2a4741814441af8d9010267bcb81dcff'}
+  - {seq: 2, role: markers, filename: assets/KR6e0119_002.markers.yaml, hash: 'sha256:fa3a5a408d23d187e2c932854c84cb3232858eaf955a6278f590dfba81c9ec8d'}
+  - {seq: 3, role: markers, filename: assets/KR6e0119_003.markers.yaml, hash: 'sha256:0a08f3fa86d894de9fb3868ac080bed0f45ae2c993b702f7dfaa9619e8235dcb'}
+  - {seq: 4, role: markers, filename: assets/KR6e0119_004.markers.yaml, hash: 'sha256:326cde9541ad8013433c0f955eed495be55c7ef44b4c8ed6a5f7670545fa9986'}
+  - {seq: 5, role: markers, filename: assets/KR6e0119_005.markers.yaml, hash: 'sha256:9de546b3015e442aee715d4fe4567803f8d4ab6f302799e326582b69346055d4'}
+  - {seq: 6, role: markers, filename: assets/KR6e0119_006.markers.yaml, hash: 'sha256:1735fdf6a383a6b35aa82b261371d4b9178636a79f67d1998bf77188781c497d'}
 table_of_contents:
 - ref:
     seq: 2
@@ -85,7 +85,7 @@ table_of_contents:
   label: 大方廣佛華嚴經談玄決擇卷第六
   type: juan
   level: 1
-hash: sha256:00e6cfe6c10a3836a3022044358875324ede8a989954b1584b2250ed9fd2a6dc
+hash: sha256:4f965e6023bdb4233ea85102cf9a265cc50a8e8004e5ab44793c1d3f1b1e0087
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
